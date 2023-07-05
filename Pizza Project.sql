@@ -5,7 +5,7 @@ use pizza_db;
 # Importando tabela
 create table big_table4
 (
-	id 		int not null auto_increment,
+	id 	        int not null auto_increment,
     order_id 		int not null,
     pizza_id 		varchar(100),
     quantity		int,
