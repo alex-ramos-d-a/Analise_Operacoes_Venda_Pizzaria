@@ -2,7 +2,6 @@
 create database pizza_db;
 use pizza_db;
 
-
 # Importando tabela
 create table big_table4
 (
@@ -20,8 +19,6 @@ create table big_table4
     constraint pk_pizza primary key (id)
 );
 describe big_table4;
-
-
 
 # Criando tabela Tratada
 create table tab_geral (id int primary key auto_increment)
