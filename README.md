@@ -1,14 +1,7 @@
-# Visão geral 
-A Plato Pizza e um restaurante de New Jersey, E apesar de estarem tendo um bom desempenho, percebe-se que ainda há espaço para melhorar. 
-E para isso foi decido realiza uma analise para tentar descobrir oportunidades e como trabalhar de forma mais eficientes.
- 
-## Perguntas a serem respondidas
-1. Quais dias ficamos mais e menos ocupados?
-2. Quantas pizzam são feitas durante o periodo de pico?
-3. Quantas pizzas mais e menos vendidas?
-4. Qual valor medio dos pedidos?
-5. O quão bem estamos utilizando capacidade dos assentos?
-6. Qual tamanho de pizza mais vendida?
+Visão geral
+A plato pizza e um restaurante de New Jersey que sofre de uma estagnação de desempenho o que indica que claramente que há espaço para melhora. E para lidar com isso o gerente Marvin, me contrato para ajudar na solução desse problema.
+
+### Todos os arquivos da 1° parte da analise da pizzaria estão aqui, entre eles:
 
 ### Foto do dashboard
 ![Foto dashboard](https://github.com/alex-ramos-d-a/Analise_operacoes_venda_pizzaria/assets/115717016/6272cc2e-5835-4497-83f0-75f2e0a068ab)
@@ -17,10 +10,9 @@ E para isso foi decido realiza uma analise para tentar descobrir oportunidades e
 ### Foto da modelagem
 ![Foto Modelagem](https://github.com/alex-ramos-d-a/Analise_operacoes_venda_pizzaria/assets/115717016/f3629e3f-2dd3-476c-b7d2-33c820ce520a)
 
+### Os dados usados
+![DADOS EXCEL](https://github.com/alex-ramos-d-a/Analise_Operacoes_Venda_Pizzaria/assets/115717016/eeeec2ff-043e-4da4-bc43-1c7ab0bcd3cb)
 
-
-
-## PDF do dashboard
-[Analise de Operações de Venda - Pizzaria.pdf](https://github.com/alex-ramos-d-a/analise_operacoes_venda_pizzaria/files/11952044/Analise.de.Operacoes.de.Venda.-.Pizzaria.pdf)
+### E todos demais arquivos usados.
 
 
